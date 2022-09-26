@@ -20,5 +20,5 @@ public class LearnJavaFundamentals {
     LIKE THIS */
 
     //I tried this to test how merging works
-    //did it successful?
+    //did it successful to commit?
 }
