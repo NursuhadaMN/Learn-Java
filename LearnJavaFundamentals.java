@@ -18,4 +18,7 @@ public class LearnJavaFundamentals {
 
     /* to comment/uncomment multiple line, alt+shift+A
     LIKE THIS */
+
+    //I tried this to test how merging works
+    //did it successful?
 }
